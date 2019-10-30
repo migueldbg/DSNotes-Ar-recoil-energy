@@ -1,0 +1,67 @@
+\documentclass{article}
+
+
+\usepackage{arxiv}
+
+\usepackage[utf8]{inputenc} % allow utf-8 input
+\usepackage[T1]{fontenc}    % use 8-bit T1 fonts
+\usepackage{hyperref}       % hyperlinks
+\usepackage{url}            % simple URL typesetting
+\usepackage{booktabs}       % professional-quality tables
+\usepackage{amsfonts}       % blackboard math symbols
+\usepackage{nicefrac}       % compact symbols for 1/2, etc.
+\usepackage{microtype}      % microtypography
+\usepackage{lipsum}
+
+\title{A template for the \emph{arxiv} style}
+
+
+\author{
+  David S.~Hippocampus\thanks{Use footnote for providing further
+    information about author (webpage, alternative
+    address)---\emph{not} for acknowledging funding agencies.} \\
+  Department of Computer Science\\
+  Cranberry-Lemon University\\
+  Pittsburgh, PA 15213 \\
+  \texttt{hippo@cs.cranberry-lemon.edu} \\
+}
+
+\begin{document}
+\maketitle
+
+
+% keywords can be removed
+\keywords{First keyword \and Second keyword \and More}
+
+
+\section{Examples of citations, figures, tables, references}
+\label{sec:others}
+\lipsum[8] \cite{kour2014real,kour2014fast} and see \cite{hadash2018estimate}.
+
+The documentation for \verb+natbib+ may be found at
+\begin{center}
+  \url{http://mirrors.ctan.org/macros/latex/contrib/natbib/natnotes.pdf}
+\end{center}
+Of note is the command \verb+\citet+, which produces citations
+appropriate for use in inline text.  For example,
+\begin{verbatim}
+   \citet{hasselmo} investigated\dots
+\end{verbatim}
+produces
+\begin{quote}
+  Hasselmo, et al.\ (1995) investigated\dots
+\end{quote}
+
+\begin{center}
+  \url{https://www.ctan.org/pkg/booktabs}
+\end{center}
+
+
+
+
+\bibliographystyle{unsrt}  
+%\bibliography{references}  %%% Remove comment to use the external .bib file (using bibtex).
+%%% and comment out the ``thebibliography'' section.
+
+
+\end{document}
