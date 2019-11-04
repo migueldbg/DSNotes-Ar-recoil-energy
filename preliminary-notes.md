@@ -9,7 +9,4 @@
 
 The workings of most dual phase noble detectors can be represented by the illustration below.
 
-![Illustration of the operation principle of a dual phase noble detector]
-(https://github.com/migueldbg/DSNotes-Ar-recoil-energy/blob/master/figures/V.%20Chepel%20and%20H.%20Ara%C3%BAjo%20(arxiv:1207.2292)%20-%20FIgure%202.png)
-
-
+![Illustration of the operation principle of a dual phase noble detector](https://github.com/migueldbg/DSNotes-Ar-recoil-energy/blob/master/figures/V.%20Chepel%20and%20H.%20Ara%C3%BAjo%20(arxiv:1207.2292)%20-%20FIgure%202.png)	
