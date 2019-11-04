@@ -9,4 +9,18 @@
 
 The workings of most dual phase noble detectors can be represented by the illustration below.
 
-![Illustration of the operation principle of a dual phase noble detector](https://github.com/migueldbg/DSNotes-Ar-recoil-energy/blob/master/figures/V.%20Chepel%20and%20H.%20Ara%C3%BAjo%20(arxiv:1207.2292)%20-%20FIgure%202.png)	
+![Illustration of the operation principle of a dual phase noble detector](https://github.com/migueldbg/DSNotes-Ar-recoil-energy/blob/master/figures/V.%20Chepel%20and%20H.%20Ara%C3%BAjo%20(arxiv:1207.2292)%20-%20FIgure%202.png)
+
+More explicitly, the detector works in the following manner:
+ 
+1. An incoming particle collides with the target atoms in the liquid phase, transfering energy to it by different methods. This first collision results in the primary **scintillation signal** (S1).
+1. Due to the energy imparted onto the atoms, ionization may occur. A fraction of the free electrons escape recombination and drift up towards the gas phase due to an external eletric field.
+1. Once the electron is at the boundary between phases, a stronger eletric field allows it to transition into the gas phase. Once in the gas phase, a secondary scintillation occurs, giving rise to the tipically named **ionization signal** (S2).
+
+These two signals, S1 and S2, can the be used to differentiate between a nuclear recoil and a electron recoil. In general terms, for a give eletric field strength, the fraction of electrons that escape recombination with positive ions is grater for eletron than for nuclear recoils. This phenomena results in the following behaviour for the two signals:
+	* **Electron Recoils:** more energy is drawn into the luminous signal (S1) than into the observable ionization signal (S2).
+	* **Nucleon Recoils:** more energy is drawn into the observable ionization signal (S2) than into the luminous signal (S1).
+
+This effect can be clearly seen in the following figure:
+
+![Plots of signals after the elastic scattering of a neutron and from a gamma-ray]()
