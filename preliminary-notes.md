@@ -23,4 +23,4 @@ These two signals, S1 and S2, can the be used to differentiate between a nuclear
 
 This effect can be clearly seen in the following figure:
 
-![Plots of signals after the elastic scattering of a neutron and from a gamma-ray]()
+![Plots of signals after the elastic scattering of a neutron and from a gamma-ray](https://github.com/migueldbg/DSNotes-Ar-recoil-energy/blob/master/figures/V.%20Chepel%20and%20H.%20Ara%C3%BAjo%20(arxiv:1207.2292)%20-%20Figure%203.png)
