@@ -14,8 +14,8 @@ In the gas phase, we can relate the energies described in Eq. 1 to the atomic io
 
 <img src="https://tex.s2cms.ru/svg/%5Cfrac%7BE_0%7D%7BI%7D%20%3D%20N_%7Bi%7D%5Cfrac%7BE_%7Bi%7D%7D%7BI%7D%20%2B%20N_%7Bex%7D%5Cfrac%7BE_%7Bex%7D%7D%7BI%7D%20%2B%20N_i%5Cfrac%7B%5Cvarepsilon%7D%7BI%7D" alt="\frac{E_0}{I} = N_{i}\frac{E_{i}}{I} + N_{ex}\frac{E_{ex}}{I} + N_i\frac{\varepsilon}{I}" />
 
-where <img src="https://tex.s2cms.ru/svg/I%20%3D%2015.75" alt="I = 15.75" /> eV for argon. In the case of the liquified argon (LAr), it exhibits a band structure, such that we must replace the ionization potential with the band gap, <img src="https://tex.s2cms.ru/svg/E_g" alt="E_g" />:
+where <img src="https://tex.s2cms.ru/svg/I%20%3D%2015.75" alt="I = 15.75\ \text{eV}" />  for argon. In the case of the liquified argon (LAr), it exhibits a band structure, such that we must replace the ionization potential with the band gap, <img src="https://tex.s2cms.ru/svg/E_g" alt="E_g" />:
 
 <img src="https://tex.s2cms.ru/svg/%5Cfrac%7BE_0%7D%7BI%7D%20%3D%20N_%7Bi%7D%5Cfrac%7BE_%7Bi%7D%7D%7BI%7D%20%2B%20N_%7Bex%7D%5Cfrac%7BE_%7Bex%7D%7D%7BI%7D%20%2B%20N_i%5Cfrac%7B%5Cvarepsilon%7D%7BI%7D" alt="\frac{E_0}{I} = N_{i}\frac{E_{i}}{I} + N_{ex}\frac{E_{ex}}{I} + N_i\frac{\varepsilon}{I}" /> 
 
-where <img src="https://tex.s2cms.ru/svg/E_g%20%3D%2014.2" alt="E_g = 14.2" /> eV for solid argon. The value for the liquid phase is currently unknown. 
+where <img src="https://tex.s2cms.ru/svg/E_g%20%3D%2014.2" alt="E_g = 14.2\ \text{eV}" /> for solid argon. The value for the liquid phase is currently unknown. 
