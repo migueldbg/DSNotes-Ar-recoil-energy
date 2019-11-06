@@ -17,6 +17,8 @@ More explicitly, the detector works in the following manner:
 1. Due to the energy imparted onto the atoms, ionization may occur. A fraction of the free electrons escape recombination and drift up towards the gas phase due to an external eletric field.
 1. Once the electron is at the boundary between phases, a stronger eletric field allows it to transition into the gas phase. Once in the gas phase, a secondary scintillation occurs, giving rise to the tipically named **ionization signal** (S2).
 
+It's important to note that even though both signals are detected in the form of light, S2 is called the *ionization* signal to emphasis the fact its origin is due to the *ionization* process. As a result of this, its size (pulse area) is directly correlated with the number of electrons extracted from the particle track.
+
 These two signals, S1 and S2, can the be used to differentiate between a nuclear recoil and a electron recoil. In general terms, for a give eletric field strength, the fraction of electrons that escape recombination with positive ions is grater for eletron than for nuclear recoils. This phenomena results in the following behaviour for the two signals:
 * **Electron Recoils:** more energy is drawn into the luminous signal (S1) than into the observable ionization signal (S2).
 * **Nucleon Recoils:** more energy is drawn into the observable ionization signal (S2) than into the luminous signal (S1).
@@ -25,6 +27,6 @@ This effect can be clearly seen in the following figure:
 
 ![Plots of signals after the elastic scattering of a neutron and from a gamma-ray](https://github.com/migueldbg/DSNotes-Ar-recoil-energy/blob/master/figures/V.%20Chepel%20and%20H.%20Ara%C3%BAjo%20(arxiv:1207.2292)%20-%20Figure%203.png)
 
-As we can see from the image, the ionization signal (S2) is much greater for the gamma-ray, which generates electron recoils. The use of this ocurrence to discriminate between electron and neutron recoils is called **pulse shape discrimination (PSD)**.
+As we can see from the image, the ionization signal (S2) is much greater for the gamma-ray, which generates electron recoils. The use of this ocurrence to discriminate between electron and neutron recoils is called **pulse shape discrimination (PSD)** and it's extremely effecient at rejecting electronic interactions above ~10 keV.
 
-It's important to note that even though both signals are detected in the form of light, S2 is called the *ionization* signal to emphasis the fact its origin is due to the ionization process. As a result of this, its size (pulse area) is directly correlated with the number of electrons extracted from the particle track. 
+To garner useful information from the detector, we must know how to reconstruct the energy trasnferred by a particle to the medium from the signals detected. Doing so is no easy task and requires determing a plethora of different properties of the experiment, such as: relative scintillation efficiency for electrons and nucleon recoils, their dependence on recoil energy and eletric field strength, the probability of an electron so escape recombination as well as the trasnfer efficiency from liquid to gas. None of these are simple problems, such that we must consider theoretical models to construct and test our predictions. We do so in the main notes.
