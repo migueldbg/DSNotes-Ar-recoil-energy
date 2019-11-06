@@ -2,9 +2,7 @@
 
 ## Particle Energy Trasfer
 
-The total energy $$E_0$$ trasnferred to a medium by an incomming particle can be divided in three portions: ionization, excitation and heat. For an electron, we can write the following equation:
-
-$$E_0 = N_iE_i + N_{ex}E_{ex} + N_i\varepsilonThe total energy <img src="https://tex.s2cms.ru/svg/E_0" alt="E_0" /> trasnferred to a medium by an incomming particle can be divided in three portions: ionization, excitation and heat. For an electron, we can write the following equation:
+The total energy <img src="https://tex.s2cms.ru/svg/E_0" alt="E_0" /> trasnferred to a medium by an incomming particle can be divided in three portions: ionization, excitation and heat. For an electron, we can write the following equation:
 
 <img src="https://tex.s2cms.ru/svg/E_0%20%3D%20N_iE_i%20%2B%20N_%7Bex%7DE_%7Bex%7D%20%2B%20N_i%20%5Cvarepsilon" alt="E_0 = N_iE_i + N_{ex}E_{ex} + N_i \varepsilon" />(1)
 
@@ -20,4 +18,4 @@ where <img src="https://tex.s2cms.ru/svg/I%20%3D%2015.75" alt="I = 15.75" /> eV 
 
 <img src="https://tex.s2cms.ru/svg/%5Cfrac%7BE_0%7D%7BI%7D%20%3D%20N_%7Bi%7D%5Cfrac%7BE_%7Bi%7D%7D%7BI%7D%20%2B%20N_%7Bex%7D%5Cfrac%7BE_%7Bex%7D%7D%7BI%7D%20%2B%20N_i%5Cfrac%7B%5Cvarepsilon%7D%7BI%7D" alt="\frac{E_0}{I} = N_{i}\frac{E_{i}}{I} + N_{ex}\frac{E_{ex}}{I} + N_i\frac{\varepsilon}{I}" />(3) 
 
-where <img src="https://tex.s2cms.ru/svg/E_g%20%3D%2014.2" alt="E_g = 14.2" /> eV for solid argon. The value for the liquid phase is currently unknown.  
+where <img src="https://tex.s2cms.ru/svg/E_g%20%3D%2014.2" alt="E_g = 14.2" /> eV for solid argon. The value for the liquid phase is currently unknown. 
