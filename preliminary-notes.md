@@ -18,12 +18,12 @@ More explicitly, the detector works in the following manner:
 1. Once the electron is at the boundary between phases, a stronger eletric field allows it to transition into the gas phase. Once in the gas phase, a secondary scintillation occurs, giving rise to the tipically named **ionization signal** (S2).
 
 These two signals, S1 and S2, can the be used to differentiate between a nuclear recoil and a electron recoil. In general terms, for a give eletric field strength, the fraction of electrons that escape recombination with positive ions is grater for eletron than for nuclear recoils. This phenomena results in the following behaviour for the two signals:
-	* **Electron Recoils:** more energy is drawn into the luminous signal (S1) than into the observable ionization signal (S2).
-	* **Nucleon Recoils:** more energy is drawn into the observable ionization signal (S2) than into the luminous signal (S1).
+* **Electron Recoils:** more energy is drawn into the luminous signal (S1) than into the observable ionization signal (S2).
+* **Nucleon Recoils:** more energy is drawn into the observable ionization signal (S2) than into the luminous signal (S1).
 
 This effect can be clearly seen in the following figure:
 
-![Plots of signals after the elastic scattering of a neutron and from a gamma-ray](https://github.com/migueldbg/DSNotes-Ar-recoil-energy/blob/master/figures/V.%20Chepel%20and%20H.%20Ara%C3%BAjo%20(arxiv:1207.2292%20-%20Figure%203.png)
+![Plots of signals after the elastic scattering of a neutron and from a gamma-ray](https://github.com/migueldbg/DSNotes-Ar-recoil-energy/blob/master/figures/V.%20Chepel%20and%20H.%20Ara%C3%BAjo%20(arxiv:1207.2292)%20-%20Figure%203.png)
 
 As we can see from the image, the ionization signal (S2) is much greater for the gamma-ray, which generates electron recoils. The use of this ocurrence to discriminate between electron and neutron recoils is called **pulse shape discrimination (PSD)**.
 
