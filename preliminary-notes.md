@@ -20,8 +20,8 @@ More explicitly, the detector works in the following manner:
 It's important to note that even though both signals are detected in the form of light, S2 is called the *ionization* signal to emphasis the fact its origin is due to the *ionization* process. As a result of this, its size (pulse area) is directly correlated with the number of electrons extracted from the particle track.
 
 These two signals, S1 and S2, can the be used to differentiate between a nuclear recoil and a electron recoil. In general terms, for a give eletric field strength, the fraction of electrons that escape recombination with positive ions is grater for eletron than for nuclear recoils. This phenomena results in the following behaviour for the two signals:
-* **Electron Recoils:** more energy is drawn into the luminous signal (S1) than into the observable ionization signal (S2).
-* **Nucleon Recoils:** more energy is drawn into the observable ionization signal (S2) than into the luminous signal (S1).
+* **Nuclear Recoils:** more energy is drawn into the luminous signal (S1) than into the observable ionization signal (S2).
+* **Electron Recoils:** more energy is drawn into the observable ionization signal (S2) than into the luminous signal (S1).
 
 This effect can be clearly seen in the following figure:
 
