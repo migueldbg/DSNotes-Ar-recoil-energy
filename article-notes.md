@@ -2,3 +2,9 @@
 
 * **P. Agnes et al. (Phys. Lett. B 743, 2015)**
 	* *Section II, page 459:* the 128 mm scintillation photons are emmited from two nearly degenerate excimer states, a long-lived triplet state (1.5 microseconds) and a short-lived singlet-state (6 nanoseconds). The difference in ionization density between nuclear recoils and electron recoils produce different ratios of these states, resulting in a different time profile of the scintillation signal S1. More precisely, nuclear recoils have a grater fraction of singlet-states, such that they have a faster scintillation component when compared with electron recoils (this results in a higher f90 value).
+
+* **I. Albuquerque and M. Wada (Int. Note from the DS-50 Collab., 2105)**
+	* *Section II, page 2:* the total nuclear recoil energy has two components, a fraction goes into the formation of excited states and ions, which give rise to the scintillation and ionization signals detected. However, a considerable fraction of the total energy is trasnferred to the motion of surrouding atoms, resulting into heat. This second component is larger than the first, such that a considerable part of the nuclear recoil energy is lost, unable to be detected. In general we can consider the nuclear recoil energy to be writen as the sum of two components: E_nr = E_q + E_H. Here, E_H is the fraction lost to heat and E_q the fraction of energy actually detected. As such, we can define a "nuclear quenching factor" f_n = E_q/E_nr, that is, how much of the total energy is converted into a detectable signal.
+
+* **B. Lenardo et al. (arXiv:1412.4417v3, 2015)**
+	* *Section I, page 1:* Figure 1 conscisely encapsulates most of the physics involved in the detection of signals in liquid noble gas TPCs. It might be worth to use it exactly, or make a similar one with it as reference.
