@@ -6,5 +6,10 @@
 * **I. Albuquerque and M. Wada (Int. Note from the DS-50 Collab., 2105)**
 	* *Section II, page 2:* the total nuclear recoil energy has two components, a fraction goes into the formation of excited states and ions, which give rise to the scintillation and ionization signals detected. However, a considerable fraction of the total energy is trasnferred to the motion of surrouding atoms, resulting into heat. This second component is larger than the first, such that a considerable part of the nuclear recoil energy is lost, unable to be detected. In general we can consider the nuclear recoil energy to be writen as the sum of two components: E_nr = E_q + E_H. Here, E_H is the fraction lost to heat and E_q the fraction of energy actually detected. As such, we can define a "nuclear quenching factor" f_n = E_q/E_nr, that is, how much of the total energy is converted into a detectable signal.
 
+* **T. Alexander et al. (Phys. Rev. D 88, 2013)**
+	* *Section I, page 5:* the scintillation yield, that its, the strength of the S1 signal, decreases with increasing external eletric field. Also, lower recoil energies feel this effect more strongly, as summarized in Figure 7. The presence of an external field can reduce light yield by reducing the probabily of ion-electron recombination, one process that produces scintillation light. This effect should depend on the size of the external field relative to the field due to the ionization of the medium, the later which depends on the ionization density along the path of the recoil. In turn, this depends on the energy of the recoiling energy. Overall, these are the reasons for the pattern seen in Figure 7 and show that recombination plays an important role on the formation of S1.
+
 * **B. Lenardo et al. (arXiv:1412.4417v3, 2015)**
 	* *Section I, page 1:* Figure 1 conscisely encapsulates most of the physics involved in the detection of signals in liquid noble gas TPCs. It might be worth to use it exactly, or make a similar one with it as reference.
+
+
